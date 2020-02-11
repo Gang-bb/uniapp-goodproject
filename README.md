@@ -19,12 +19,13 @@
 
 <font color=	#8B4513 size=4 face="微软雅黑">这边图片裂开可以到CSDN博客地址：</font>
 
+https://blog.csdn.net/qq_37132495/article/details/104251625
 
 
 
 
 
-@[TOC]
+
 ## <font color=	#800080 size=5 face="微软雅黑">组件库</font>
 #### [ThorUI](https://ext.dcloud.net.cn/plugin?id=556)
 
